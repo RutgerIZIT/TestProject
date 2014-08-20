@@ -6,6 +6,7 @@
         <StackPanel >
             <TextBox Text="bleken"/>
             <CheckBox IsChecked="True" Content="blablabla"/>
+            <TextBlock Text="bleblkadlfk"/>
         </StackPanel>
         
     </Grid>
