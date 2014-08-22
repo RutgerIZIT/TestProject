@@ -25,9 +25,9 @@ namespace TestProject
             InitializeComponent();
         }
 
-        public void testfunction()
+        public byte[] testFunction()
         {
-           
+            return null;
         }
     }
 }
