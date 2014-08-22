@@ -24,10 +24,17 @@ namespace TestProject
         {
             InitializeComponent();
         }
+
 		
 		public string testFunction ()
 		{
 			return "";
 		}
+
+        public byte[] testFunction()
+        {
+            return null;
+        }
+
     }
 }
