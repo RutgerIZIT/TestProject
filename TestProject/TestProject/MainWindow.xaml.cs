@@ -24,5 +24,10 @@ namespace TestProject
         {
             InitializeComponent();
         }
+		
+		public string testFunction ()
+		{
+			return "";
+		}
     }
 }
